@@ -11,7 +11,7 @@ It will activate immediately and can be turned off if desired.
 This version is completely unlimited in the scope of its HTML loading, 
 be wary and understand everything you click on. 
 
-Use Dev Tools to CYA, if no IYKYK don't use this version without recourse.
+Use Dev Tools to CYA, if no IYKYK don't use this version as you are without recourse.
 
 DO NOT HAVE ANY WALLETS CONNECTED or live while browsing!
 
