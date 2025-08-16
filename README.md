@@ -13,6 +13,6 @@ be wary and understand everything you click on.
 
 Use Dev Tools to CYA, if no IYKYK don't use this version without recourse.
 
-DO NOT HAVE ANY WALLETS CONNECTED or live while browseing!
+DO NOT HAVE ANY WALLETS CONNECTED or live while browsing!
 
 Hello, this is IT... Did you turn it off and back on yet? 
