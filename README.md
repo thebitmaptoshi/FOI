@@ -8,4 +8,10 @@ Go to chrome://extensions/ and activate Dev Mode by slider or button, top right 
 Click "Load Unpacked" and select the FOI folder
 It will activate immediately and can be turned off if desired.
 
+This version is completely unlimited in the scope of its HTML loading, 
+be wary and understand everything you click on. 
+
+Use Dev Tools to CYA, if no IYKYK don't use this version with
+ANY wallets connected or live while browseing!
+
 Hello, this is IT... Did you turn it off and back on yet? 
