@@ -12,4 +12,6 @@ This version includes DOMPurity for HTML scrubbing, rejecting http:// redirects.
 It also sandbags the local environment after rendering to minimze clickjacking.
 Be safu
 
+DO NOT HAVE ANY WALLETS CONNECTED or live while browseing!
+
 Hello, this is IT... Did you turn it off and back on yet? 
