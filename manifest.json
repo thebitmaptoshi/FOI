@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Ordinals Content Viewer",
+  "version": "1.0",
+  "description": "Renders Ordinals content locally in a secure, stylized interface",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "declarativeNetRequest"
+  ],
+  "host_permissions": [
+    "https://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "ordinals.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://ordinals.com/*"],
+      "js": ["purify.min.js", "content.js"]
+    }
+  ],
+  "action": {},
+  "web_accessible_resources": [
+    {
+      "resources": ["local.html"],
+      "matches": ["https://ordinals.com/*"]
+    }
+  ]
+}
