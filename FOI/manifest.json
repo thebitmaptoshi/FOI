@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Ordinals Content Renderer",
+  "name": "Ordinals Content Viewer",
   "version": "1.0",
-  "description": "Renders ordinals.com content locally",
+  "description": "Renders Ordinals content locally in a secure, stylized interface",
   "permissions": [
     "storage",
     "activeTab",
@@ -15,6 +15,9 @@
   "background": {
     "service_worker": "background.js"
   },
+  "icons": {
+    "128": "ordinals.png"
+  },
   "content_scripts": [
     {
       "matches": ["https://ordinals.com/*"],
@@ -24,7 +27,7 @@
   "action": {},
   "web_accessible_resources": [
     {
-      "resources": ["local.html", "local.js"],
+      "resources": ["local.html"],
       "matches": ["https://ordinals.com/*"]
     }
   ]
