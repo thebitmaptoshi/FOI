@@ -4,7 +4,6 @@
   "version": "1.0",
   "description": "Renders Ordinals content locally in a secure, stylized interface",
   "permissions": [
-    "storage",
     "activeTab",
     "scripting",
     "declarativeNetRequest"
@@ -32,3 +31,4 @@
     }
   ]
 }
+
